@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ Privatised\ variables\ with\ their\ getters\ and\ setters\ for\ encapsulation\r\n
+comment1.params=
+comment1.target=int\ getAccNumber()
+comment1.text=GETTERS*****
+comment10.params=amount
+comment10.target=boolean\ deposit(int)
+comment10.text=if\ (amount\ <\ 0\ ||\ balance\ <\ amount)\ {\r\n\ \ \ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ \ \ \ \ }\ else\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ balance\ \=\ balance\ -\ amount;\ \ //\ subtract\ amount\ from\ balance\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ true;\ \r\n\ \ \ \ \ \ \ \ }\r\n}
+comment11.params=
+comment11.target=int\ getBalance()
+comment2.params=
+comment2.target=int\ getAccPasswd()
+comment3.params=
+comment3.target=int\ getBal()
+comment4.params=newAccNumber
+comment4.target=void\ setAccNumber(int)
+comment4.text=SETTERS*****
+comment5.params=newAccPasswd
+comment5.target=void\ setAccPasswd(int)
+comment6.params=newBalance
+comment6.target=void\ setBal(int)
+comment7.params=
+comment7.target=BankAccount()
+comment8.params=a\ p\ b
+comment8.target=BankAccount(int,\ int,\ int)
+comment9.params=amount
+comment9.target=boolean\ withdraw(int)
+numComments=12

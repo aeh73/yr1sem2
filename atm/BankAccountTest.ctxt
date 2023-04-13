@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BankAccountTest
+comment0.text=\r\n\ The\ test\ class\ BankAccountTest.\r\n\r\n\ @Ahmed\ El-Hawat\r\n\ @version\ 329.89V6\r\n\ @Test\ class\ to\ test\ the\ encapsulated\ variables\ from\ the\ BankAccount\ class\r\n
+comment1.params=
+comment1.target=BankAccountTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ BankAccountTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testSetAccNumber()
+comment4.text=\r\n\ Method\ testSetAccNumber\r\nSimple\ test\ to\ make\ sure\ the\ getters\ and\ setters\ for\ getAccNumber\ and\ setAccNumber\ work.\r\n
+comment5.params=
+comment5.target=void\ testSetAccPasswd()
+comment5.text=\r\n\ Method\ testSetAccPasswd\r\nTest\ to\ make\ sure\ the\ getters\ and\ setters\ for\ getAccPasswd\ and\ setAccPasswd\ work.\r\n
+comment6.params=
+comment6.target=void\ testSetBal()
+comment6.text=\r\n\ Method\ testSetBal\r\nTest\ to\ make\ sure\ the\ getters\ and\ setters\ for\ SetBal\ and\ getBal\ work.\r\n
+comment7.params=
+comment7.target=void\ testGetBalance()
+comment7.text=\r\n\ Method\ testGetBalance\r\nTest\ to\ make\ sure\ the\ values\ for\ getBal\ and\ getBalance\ are\ the\ same.\r\n
+numComments=8

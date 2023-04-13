@@ -1,0 +1,47 @@
+#Layout {
+    -fx-grid-lines-visible: false;
+    -fx-hgap: 5;
+    -fx-vgap: 5;
+    -fx-padding: 10;
+    -fx-background-image:url("stars.jpg");
+    -fx-background-size: cover;
+}
+
+#Buttons {
+    -fx-pref-columns: 6;
+    -fx-pref-tile-width: 75;
+    -fx-hgap: 5;
+    -fx-vgap: 5;
+    
+}
+
+.button {
+    -fx-font: bold 12pt "courier new";
+    -fx-border-width:2px;
+    -fx-border-color:black;
+    -fx-text-fill:white;
+    -fx-font-weight:900;   
+}
+
+#msgField{
+    -fx-font: bold 8pt "Comic Sans";
+    -fx-text-fill:black;
+}
+#rlyField{
+    -fx-text-fill:green;
+    -fx-font:bold 12pt "Comic Sans";
+    -fx-font-weight:900; 
+    
+}
+.num-btn{
+    -fx-base:lightblue;
+}
+.grn-btn{
+    -fx-background-color:green;
+}
+.red-btn{
+    -fx-background-color:red;
+}
+.hide{
+    display:none;
+}
